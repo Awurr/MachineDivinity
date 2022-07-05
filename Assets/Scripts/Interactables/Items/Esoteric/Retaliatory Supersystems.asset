@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e9e8e2b6f436ab4c90be307de3c9f7d, type: 3}
+  m_Name: Retaliatory Supersystems
+  m_EditorClassIdentifier: 
+  Name: Retaliatory Supersystems
+  Description: Do unto others as others do to you.
+  Titles:
+  - {fileID: -4606757588999311855, guid: b565fe7323cf53e4892c77af7404c7d7, type: 3}
+  - {fileID: -4843488747088161378, guid: b565fe7323cf53e4892c77af7404c7d7, type: 3}
+  Type: 2
+  Icon: {fileID: 21300000, guid: 86cbfb1708452fa4f906c8129bcc8b08, type: 3}
+  InvertTo: {fileID: 0}
+  DescriptionColor: {r: 1, g: 0, b: 0, a: 1}
+  Missile: {fileID: 1127672978909954274, guid: 9eef688fbe0f9c841a5f0bd9d75968c2, type: 3}
+  MissileAmount: 4
+  MissileDelay: 0.1

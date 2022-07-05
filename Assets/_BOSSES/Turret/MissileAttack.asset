@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ef6a3d02064dfb449ef8544714131e9, type: 3}
+  m_Name: MissileAttack
+  m_EditorClassIdentifier: 
+  Projectile: {fileID: 4948387344264084202, guid: 1fb2283ddf8d361488b61e5bd75bea36,
+    type: 3}
+  ProjectileSpeed: 4
+  ProjectileDamage: 1
+  AttackCooldown: 4

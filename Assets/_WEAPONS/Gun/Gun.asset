@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a94169181a0ea498584115cc030b3e, type: 3}
+  m_Name: Gun
+  m_EditorClassIdentifier: 
+  Damage: 1
+  Projectile: {fileID: 1672696892279908110, guid: 44bef447471d9334eb8ce2d088b0e89b,
+    type: 3}
+  ProjectileSpeed: 500
+  CooldownTime: 0.5

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e919e431aea5c4981f4b1317ab41f5, type: 3}
+  m_Name: CityRooms
+  m_EditorClassIdentifier: 
+  StartingRoom: {fileID: 3157937136071370597, guid: c04c90996a291c7418e80bca18d49f70,
+    type: 3}
+  Rooms:
+  - {fileID: 8846209557342392755, guid: 7fc1e11ad63a79c4d81eea441ab20cd4, type: 3}
+  - {fileID: 1174538144649123599, guid: c4b7bb5122a91a540b179ee9355208e6, type: 3}
+  - {fileID: 8681160787341910022, guid: 0f32d5721b0aef44d9b6a3fbb0f649b4, type: 3}
+  - {fileID: 8663533206213422, guid: b83272f8c937dfe45bf6eb4e3c65fba9, type: 3}
+  BossRooms:
+  - {fileID: 8810620692980324709, guid: e67cc38953ba292429dbbdcca001a9b0, type: 3}

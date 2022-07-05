@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d26e32a265225439f938a006dc0b28, type: 3}
+  m_Name: CityEnemies
+  m_EditorClassIdentifier: 
+  Spawners:
+  - {fileID: 2009485935054956843, guid: 404fad19324194240a18a9f6fca92a1c, type: 3}
+  - {fileID: 5983495187710901976, guid: b3c9c73361f1a874db8ed20af73bed46, type: 3}
+  - {fileID: 7304725288657837840, guid: 4e6a7343d8eca234bbe184250527c2e5, type: 3}
+  - {fileID: 4774789198638278767, guid: f6c319cf47e7b0d4f9094f2823eb97f4, type: 3}
